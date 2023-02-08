@@ -28,7 +28,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://www.kodluyoruz.org/)
 
-![Proje Fotoğrafı](Desktop\markdown.png)
+![Proje Fotoğrafı](markdown.png)
 
 
 
