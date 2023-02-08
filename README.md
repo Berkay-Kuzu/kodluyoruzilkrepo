@@ -26,7 +26,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 # License
 
-[MIT](https://www.kodluyoruz.org/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
